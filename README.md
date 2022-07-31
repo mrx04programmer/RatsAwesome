@@ -30,7 +30,6 @@ optional arguments:
 [![asciicast](https://asciinema.org/a/0Bf3sq3OqA2kNxyld42anFMPo.svg)](https://asciinema.org/a/0Bf3sq3OqA2kNxyld42anFMPo)
 
 * Creating the server for the backdoor in the device
-[![asciicast](https://asciinema.org/a/xy4tJlnLSeEMFEu7N9IpO3CYJ.svg)](https://asciinema.org/a/xy4tJlnLSeEMFEu7N9IpO3CYJ)
 
 * Generating the file metasploit RC and show the content
 [![asciicast](https://asciinema.org/a/NLoijoPRVFUv6OnfJSLHnX4gE.svg)](https://asciinema.org/a/NLoijoPRVFUv6OnfJSLHnX4gE)
