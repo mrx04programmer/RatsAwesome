@@ -2,7 +2,7 @@
 ## Pre - Requisites
 | Nombre | Descarga|
 |-----------|---|
-| python3.7 | ![python.org](https://www.python.org/)
+| python3.7 | [python.org](https://www.python.org/)
 
 * Install requisites for python:
 > python3.7 -m pip install -r requirements.txt
